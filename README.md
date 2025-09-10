@@ -1,5 +1,7 @@
 Dylan de Marins Silva Santos 251167
 
+Link no Somee http://dylanmarins.somee.com/RpgApi/PersonagensExercicio/GetByName/Valter%20Costa%20Junior
+
 <img width="801" height="305" alt="PostValidaçãoMago" src="https://github.com/user-attachments/assets/9994f07b-599f-49bc-91d8-9773a32abd13" />
 <img width="836" height="579" alt="PostValidação" src="https://github.com/user-attachments/assets/c49afe8e-42c4-4c0f-8e64-5f80ef234804" />
 <img width="1472" height="624" alt="GetEstatisticas" src="https://github.com/user-attachments/assets/cab1e1ea-088c-48f6-94ab-cbb87c97500e" />
