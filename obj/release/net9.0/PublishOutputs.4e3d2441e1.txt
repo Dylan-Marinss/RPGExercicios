@@ -1,0 +1,9 @@
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\RpgApi.exe
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\appsettings.Development.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\appsettings.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\RpgApi.dll
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\RpgApi.deps.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\RpgApi.runtimeconfig.json
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\RpgApi.pdb
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\Microsoft.AspNetCore.OpenApi.dll
+D:\Dylan2DS\DS-I(Desenvolvimento de sistema)\RpgApi\Publicacao\Microsoft.OpenApi.dll
